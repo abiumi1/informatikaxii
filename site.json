@@ -1,0 +1,1057 @@
+{
+  "id": "4c8f48f0-c6e3-4446-a424-4a292ea8e185",
+  "title": "informatikaxii",
+  "author": "",
+  "description": "",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "settings": {
+        "lang": "en"
+      },
+      "name": "informatikaxii",
+      "domain": null,
+      "created": 1723078634,
+      "updated": 1723078634
+    },
+    "theme": {
+      "variables": {}
+    },
+    "node": {
+      "fields": {}
+    }
+  },
+  "items": [
+    {
+      "id": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "indent": 0,
+      "location": "pages/item-fbc16ff7-1765-4bdc-82f0-627c990629c1/index.html",
+      "slug": "literasi-digital",
+      "order": 1,
+      "parent": null,
+      "title": "Literasi Digital",
+      "description": "",
+      "metadata": {
+        "created": 1723078634,
+        "updated": 1723078634,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {},
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]judo.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/judo.jpg",
+            "url": "files/judo.jpg",
+            "type": "image/jpeg",
+            "name": "judo.jpg",
+            "size": 45855
+          }
+        ],
+        "pageType": "module",
+        "tags": "internet,iot, digital,literasi",
+        "icon": "hax:module"
+      }
+    },
+    {
+      "id": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "indent": 1,
+      "location": "pages/item-217c8430-43fb-49a8-b953-1084cb31f0cb/index.html",
+      "slug": "literasi-digital/mesin-pencari",
+      "order": 1,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Mesin Pencari",
+      "description": "",
+      "metadata": {
+        "created": 1723078634,
+        "updated": 1723078634,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "pageType": "content",
+        "icon": "lrn:page"
+      }
+    },
+    {
+      "id": "item-5ec6a7be-793f-466f-86b6-309a7e041fb5",
+      "indent": 2,
+      "location": "pages/item-5ec6a7be-793f-466f-86b6-309a7e041fb5/index.html",
+      "slug": "literasi-digital/mesin-pencari/menemukan-informasi-di-era-digital",
+      "order": 2,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Menemukan Informasi di Era Digital",
+      "description": "",
+      "metadata": {
+        "created": 1723078634,
+        "updated": 1723078634,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-b4236a08-9f70-4722-b4fc-6b826a1d5e34",
+      "indent": 2,
+      "location": "pages/item-b4236a08-9f70-4722-b4fc-6b826a1d5e34/index.html",
+      "slug": "literasi-digital/mesin-pencari/cara-kerja",
+      "order": 1,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Cara Kerja",
+      "description": "",
+      "metadata": {
+        "created": 1723078634,
+        "updated": 1723078634,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-65bc1428-e55e-4266-bdfb-4d48f31b692b",
+      "indent": 2,
+      "location": "pages/item-65bc1428-e55e-4266-bdfb-4d48f31b692b/index.html",
+      "slug": "literasi-digital/mesin-pencari/teknik-pencarian",
+      "order": 2,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Teknik Pencarian",
+      "description": "",
+      "metadata": {
+        "created": 1723078634,
+        "updated": 1723078634,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]kata+kunci-1124639970.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kata+kunci-1124639970.png",
+            "url": "files/kata+kunci-1124639970.png",
+            "type": "image/png",
+            "name": "kata+kunci-1124639970.png",
+            "size": 21510
+          },
+          {
+            "path": "[object Object]filter-search.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/filter-search.jpg",
+            "url": "files/filter-search.jpg",
+            "type": "image/jpeg",
+            "name": "filter-search.jpg",
+            "size": 104438
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab",
+      "indent": 2,
+      "location": "pages/item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab/index.html",
+      "slug": "literasi-digital/mesin-pencari/belajar-dari-google",
+      "order": 4,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Belajar Dari Google",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]sepulang-sekolah.JPG",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/sepulang-sekolah.JPG",
+            "url": "files/sepulang-sekolah.JPG",
+            "type": "image/jpeg",
+            "name": "sepulang-sekolah.JPG",
+            "size": 48175
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-9a7aaf1f-0c91-4390-9d15-131b08af42af",
+      "indent": 2,
+      "location": "pages/item-9a7aaf1f-0c91-4390-9d15-131b08af42af/index.html",
+      "slug": "literasi-digital/mesin-pencari/refleksi-materi",
+      "order": 6,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Refleksi Materi",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1723078635,
+        "images": {},
+        "videos": {},
+        "updated": 1723078635,
+        "files": [
+          {
+            "path": "[object Object]jurnal.JPG",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/jurnal.JPG",
+            "url": "files/jurnal.JPG",
+            "type": "image/jpeg",
+            "name": "jurnal.JPG",
+            "size": 40806
+          },
+          {
+            "path": "[object Object]3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+            "url": "files/3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+            "type": "image/jpeg",
+            "name": "3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+            "size": 40806
+          },
+          {
+            "path": "[object Object]kumpulan-jurnal.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kumpulan-jurnal.jpg",
+            "url": "files/kumpulan-jurnal.jpg",
+            "type": "image/jpeg",
+            "name": "kumpulan-jurnal.jpg",
+            "size": 55198
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-4fa1de6b-c8f9-4024-a50d-f42a74b46654",
+      "indent": 2,
+      "location": "pages/item-4fa1de6b-c8f9-4024-a50d-f42a74b46654/index.html",
+      "slug": "literasi-digital/mesin-pencari/filter-pencarian",
+      "order": 3,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": " Filter Pencarian",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-1f991c10-9307-4f0c-80f7-2ac058f65b6a",
+      "indent": 2,
+      "location": "pages/item-1f991c10-9307-4f0c-80f7-2ac058f65b6a/index.html",
+      "slug": "literasi-digital/mesin-pencari/refleksi-materi-mesin-search",
+      "order": 5,
+      "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+      "title": "Refleksi Materi Mesin Search",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "indent": 1,
+      "location": "pages/item-d42083d1-68bf-4c1e-8444-04f4f824d0d7/index.html",
+      "slug": "literasi-digital/membaca-lateral",
+      "order": 1,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Membaca Lateral",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "lesson",
+        "icon": "hax:lesson"
+      }
+    },
+    {
+      "id": "item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40",
+      "indent": 2,
+      "location": "pages/item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40/index.html",
+      "slug": "literasi-digital/membaca-lateral/infografis-digital",
+      "order": 1,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Infografis Digital",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c",
+      "indent": 2,
+      "location": "pages/item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c/index.html",
+      "slug": "literasi-digital/membaca-lateral/pilar-literasi-digital",
+      "order": 2,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Pilar literasi digital",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-300abfcb-8cea-4127-a7ac-dd60fcf03083",
+      "indent": 2,
+      "location": "pages/item-300abfcb-8cea-4127-a7ac-dd60fcf03083/index.html",
+      "slug": "literasi-digital/membaca-lateral/aman-bermedia-digital",
+      "order": 3,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Aman Bermedia Digital",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+      "indent": 2,
+      "location": "pages/item-04a22b30-1b80-41bc-bbe0-13702507b9eb/index.html",
+      "slug": "literasi-digital/membaca-lateral/teknik-fact-checking",
+      "order": 13,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Teknik fact-checking",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]news.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/news.jpg",
+            "url": "files/news.jpg",
+            "type": "image/jpeg",
+            "name": "news.jpg",
+            "size": 128101
+          }
+        ],
+        "status": ""
+      }
+    },
+    {
+      "id": "item-44f2fef3-dbe9-4f91-bc37-f3c341a0005c",
+      "indent": 3,
+      "location": "pages/item-44f2fef3-dbe9-4f91-bc37-f3c341a0005c/index.html",
+      "slug": "literasi-digital/membaca-lateral/teknik-fact-checking/kredibilitas-sumber-di-internet",
+      "order": 14,
+      "parent": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+      "title": "Kredibilitas Sumber di Internet",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-06c1dc97-f45c-4183-b0ac-12d280922451",
+      "indent": 3,
+      "location": "pages/item-06c1dc97-f45c-4183-b0ac-12d280922451/index.html",
+      "slug": "literasi-digital/membaca-lateral/teknik-fact-checking/akurasi",
+      "order": 1,
+      "parent": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+      "title": "Akurasi",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e",
+      "indent": 2,
+      "location": "pages/item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e/index.html",
+      "slug": "literasi-digital/membaca-lateral/refleksi-materi-membaca",
+      "order": 5,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Refleksi Materi Membaca",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-aea7ace1-aae1-4d3c-be1b-91db9f217d77",
+      "indent": 2,
+      "location": "pages/item-aea7ace1-aae1-4d3c-be1b-91db9f217d77/index.html",
+      "slug": "literasi-digital/membaca-lateral/situs-cek-fakta",
+      "order": 4,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "Situs Cek Fakta",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-461ed189-d4b1-40c4-b5fb-dbd8872126f7",
+      "indent": 2,
+      "location": "pages/item-461ed189-d4b1-40c4-b5fb-dbd8872126f7/index.html",
+      "slug": "literasi-digital/membaca-lateral/bias",
+      "order": 6,
+      "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+      "title": "BIAS",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "indent": 1,
+      "location": "pages/item-d62c2858-5760-41fc-aa2c-1a072867000b/index.html",
+      "slug": "literasi-digital/sistem-komputer",
+      "order": 2,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Sistem Komputer",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "lesson",
+        "icon": "hax:lesson",
+        "tags": "DIY",
+        "image": "https://content.instructables.com/F96/Q2MN/LJWVJ000/F96Q2MNLJWVJ000.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150"
+      }
+    },
+    {
+      "id": "item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8",
+      "indent": 2,
+      "location": "pages/item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8/index.html",
+      "slug": "literasi-digital/sistem-komputer/refleksi-materi-single-board-controller",
+      "order": 12,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Refleksi Materi Single Board Controller",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-ccb6dfa5-acd9-48fe-a755-7cc465128167",
+      "indent": 2,
+      "location": "pages/item-ccb6dfa5-acd9-48fe-a755-7cc465128167/index.html",
+      "slug": "literasi-digital/sistem-komputer/single-board-computer",
+      "order": 1,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Single Board Computer",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-b25e169c-66ac-4aef-90b1-2a3d373b6156",
+      "indent": 2,
+      "location": "pages/item-b25e169c-66ac-4aef-90b1-2a3d373b6156/index.html",
+      "slug": "literasi-digital/sistem-komputer/sistem-komputer-esp32",
+      "order": 22,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Sistem Komputer Esp32",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c0e414b4-5884-46d0-b7e6-e5e1678169b2",
+      "indent": 2,
+      "location": "pages/item-c0e414b4-5884-46d0-b7e6-e5e1678169b2/index.html",
+      "slug": "literasi-digital/sistem-komputer/bank-soal",
+      "order": 11,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Bank Soal",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "tags": "soal",
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-e113395d-1d8c-4886-913a-e58227d5ac04",
+      "indent": 2,
+      "location": "pages/item-e113395d-1d8c-4886-913a-e58227d5ac04/index.html",
+      "slug": "literasi-digital/sistem-komputer/pilih-kata-yang-tepat",
+      "order": 5,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "pilih kata yang tepat",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "tags": "soal, ujian",
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "image": "https://images-assets.nasa.gov/image/jsc2023e048791/jsc2023e048791~thumb.jpg"
+      }
+    },
+    {
+      "id": "item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2",
+      "indent": 2,
+      "location": "pages/item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2/index.html",
+      "slug": "literasi-digital/sistem-komputer/cara-komputer-bekerja",
+      "order": 2,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Cara Komputer Bekerja",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]koomponen-komputer.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/koomponen-komputer.jpg",
+            "url": "files/koomponen-komputer.jpg",
+            "type": "image/jpeg",
+            "name": "koomponen-komputer.jpg",
+            "size": 97811
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-93304485-aa9c-4657-a260-13bb4492dc28",
+      "indent": 2,
+      "location": "pages/item-93304485-aa9c-4657-a260-13bb4492dc28/index.html",
+      "slug": "literasi-digital/sistem-komputer/pemasangan-program-ide",
+      "order": 7,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Pemasangan Program IDE",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-006ba611-c030-4a8d-b542-d18742482848",
+      "indent": 2,
+      "location": "pages/item-006ba611-c030-4a8d-b542-d18742482848/index.html",
+      "slug": "literasi-digital/sistem-komputer/komponen-single-board-controller",
+      "order": 4,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Komponen Single Board Controller",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/image.png",
+            "url": "files/image.png",
+            "type": "image/png",
+            "name": "image.png",
+            "size": 178631
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619",
+      "indent": 2,
+      "location": "pages/item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-led-geser",
+      "order": 8,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh LED Geser",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "[object Object]esp32.JPG",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/esp32.JPG",
+            "url": "files/esp32.JPG",
+            "type": "image/jpeg",
+            "name": "esp32.JPG",
+            "size": 69912
+          }
+        ],
+        "status": "",
+        "tags": "DIY",
+        "image": "files/esp32.JPG"
+      }
+    },
+    {
+      "id": "item-c4cb4605-d594-41db-89c3-12b2d539940d",
+      "indent": 2,
+      "location": "pages/item-c4cb4605-d594-41db-89c3-12b2d539940d/index.html",
+      "slug": "literasi-digital/sistem-komputer/single-board-controller",
+      "order": 3,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Single Board Controller",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c",
+      "indent": 2,
+      "location": "pages/item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-led-jeda",
+      "order": 9,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh LED Jeda",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "[object Object]4a41f893d392b0ed071777edf08f220d-image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/4a41f893d392b0ed071777edf08f220d-image.png",
+            "url": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+            "type": "image/png",
+            "name": "4a41f893d392b0ed071777edf08f220d-image.png",
+            "size": 49445
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "image": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+        "tags": "DIY"
+      }
+    },
+    {
+      "id": "item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf",
+      "indent": 2,
+      "location": "pages/item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf/index.html",
+      "slug": "literasi-digital/sistem-komputer/contoh-speaker",
+      "order": 10,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Contoh Speaker",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "url": "files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "type": "image/png",
+            "name": "b087ab0a0c80f847dc5e71b745c54894-image.png",
+            "size": 37975
+          }
+        ],
+        "tags": "DIY",
+        "image": "files/b087ab0a0c80f847dc5e71b745c54894-image.png"
+      }
+    },
+    {
+      "id": "item-d8571138-d44a-444c-9433-10324756fafb",
+      "indent": 2,
+      "location": "pages/item-d8571138-d44a-444c-9433-10324756fafb/index.html",
+      "slug": "literasi-digital/sistem-komputer/kontrol-lampu-jarak-jauh",
+      "order": 6,
+      "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+      "title": "Kontrol Lampu Jarak Jauh",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "tags": "DIY",
+        "locked": false,
+        "readtime": 1,
+        "image": "https://nofgipiston.wordpress.com/wp-content/uploads/2020/02/img20200205052414.jpg",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "indent": 1,
+      "location": "pages/item-f2440f4c-e08a-491f-a52c-51e13e10db5e/index.html",
+      "slug": "literasi-digital/konten-dan-hukum-ite",
+      "order": 3,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Konten Dan Hukum ITE",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "icon": "hax:lesson"
+      }
+    },
+    {
+      "id": "item-687d29d1-c7a6-4600-9a22-88dba295a989",
+      "indent": 2,
+      "location": "pages/item-687d29d1-c7a6-4600-9a22-88dba295a989/index.html",
+      "slug": "literasi-digital/konten-dan-hukum-ite/refleksi",
+      "order": 1,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Refleksi",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-6f4f1431-8d06-4a0e-b5c9-ae331f90742f",
+      "indent": 2,
+      "location": "pages/item-6f4f1431-8d06-4a0e-b5c9-ae331f90742f/index.html",
+      "slug": "literasi-digital/konten-dan-hukum-ite/membuat-berita",
+      "order": 35,
+      "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+      "title": "Membuat Berita",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "pageType": "reflect",
+        "icon": "courseicons:strategy"
+      }
+    },
+    {
+      "id": "item-a99d6ebf-7101-489e-afe6-f37f227ffe72",
+      "indent": 1,
+      "location": "pages/item-a99d6ebf-7101-489e-afe6-f37f227ffe72/index.html",
+      "slug": "literasi-digital/project-diy",
+      "order": 4,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "PROJECT DIY",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "pageType": "practice",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "icon": "hax:shovel",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9",
+      "indent": 1,
+      "location": "pages/item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9/index.html",
+      "slug": "literasi-digital/projek-display-oled",
+      "order": 5,
+      "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+      "title": "Projek Display OLED",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1",
+      "indent": 0,
+      "location": "pages/item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1/index.html",
+      "slug": "page-dengan-import-md",
+      "order": 2,
+      "parent": null,
+      "title": "Page dengan import MD",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "tags": "soal",
+        "locked": false,
+        "readtime": 1,
+        "status": "",
+        "image": "https://images-assets.nasa.gov/image/0102626/0102626~thumb.jpg"
+      }
+    },
+    {
+      "id": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+      "indent": 0,
+      "location": "pages/item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6/index.html",
+      "slug": "analisis-data",
+      "order": 3,
+      "parent": null,
+      "title": "Analisis Data",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "pageType": "module",
+        "icon": "hax:module"
+      }
+    },
+    {
+      "id": "item-6fbeaf95-aca5-490c-b82a-c0155f73535a",
+      "indent": 0,
+      "location": "pages/item-6fbeaf95-aca5-490c-b82a-c0155f73535a/index.html",
+      "slug": "silabus",
+      "order": 40,
+      "parent": null,
+      "title": "Silabus",
+      "description": "",
+      "metadata": {
+        "created": 1723078635,
+        "updated": 1723078635,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]kurmer.jpg",
+            "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kurmer.jpg",
+            "url": "files/kurmer.jpg",
+            "type": "image/jpeg",
+            "name": "kurmer.jpg",
+            "size": 14543
+          }
+        ],
+        "hideInMenu": false,
+        "readtime": 1,
+        "image": "https://images-assets.nasa.gov/image/iss007e09229/iss007e09229~thumb.jpg",
+        "pageType": "lesson",
+        "icon": "hax:lesson"
+      }
+    }
+  ],
+  "location": "/_sites/informatikaxii/index.html"
+}
