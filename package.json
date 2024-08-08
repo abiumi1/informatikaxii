@@ -1,7 +1,7 @@
 {
-  "name": "{{ short }}",
-  "version": "{{ version }}",
-  "description": "{{ description }}",
+  "name": "informatikaxii",
+  "version": "9.0.5",
+  "description": "",
   "main": "index.html",
   "author": {
     "name": "btopro"
