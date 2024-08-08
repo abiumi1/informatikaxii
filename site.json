@@ -2,24 +2,1114 @@
   "id": "4c8f48f0-c6e3-4446-a424-4a292ea8e185",
   "title": "informatikaxii",
   "author": "",
-  "description": "",
+  "description": "haxcms import",
   "license": "by-sa",
   "metadata": {
     "author": {},
     "site": {
-      "settings": {
-        "lang": "en"
-      },
       "name": "informatikaxii",
-      "domain": null,
-      "created": 1723078634,
-      "updated": 1723078634
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1723078637,
+      "updated": 1723078637,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
     },
     "theme": {
-      "variables": {}
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "variables": {
+        "icon": "av:replay-10",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
     },
     "node": {
       "fields": {}
+    },
+    "build": {
+      "version": "9.0.5",
+      "structure": "import",
+      "type": "haxcms",
+      "items": [
+        {
+          "id": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "indent": 0,
+          "location": "pages/item-fbc16ff7-1765-4bdc-82f0-627c990629c1/index.html",
+          "slug": "literasi-digital",
+          "order": 1,
+          "parent": null,
+          "title": "Literasi Digital",
+          "description": "ssd\n",
+          "metadata": {
+            "created": 1721189568,
+            "updated": 1723015511,
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "videos": {},
+            "images": {},
+            "status": "",
+            "files": [
+              {
+                "path": "[object Object]judo.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/judo.jpg",
+                "url": "files/judo.jpg",
+                "type": "image/jpeg",
+                "name": "judo.jpg",
+                "size": 45855
+              }
+            ],
+            "pageType": "module",
+            "tags": "internet,iot, digital,literasi",
+            "icon": "hax:module"
+          },
+          "contents": "\n<p><strong>Selamat datang, ...</strong><br></p>\n<meme-maker alt=\"sumber ig: \" image-url=\"files/judo.jpg\">\n    \n      <img src=\"files/judo.jpg\" alt=\"sumber ig: \" preload=\"lazy\" aria-describedby=\"\"/>\n    </meme-maker>\n<p><a href=\"https://www.instagram.com/literasidigitalkominfo/p/C7dL_JNC_gb/?img_index=2\" target=\"_blank\">Sumber gambar</a></p>\n<h2 data-original-level=\"H2\" id=\"header-0ea01ab6-1439-bbbe-c1c4-258d9e5250e2\">Tujuan Pembelajaran:</h2>\n<p></p>\n<ol><li>Memahami mesin pencari </li><li>Memahami penggunaan mesin pencari </li><li>Mengevaluasi kebenaran konten </li><li>Mengidentifikasi perbedaan membaca lateral dan kegunaannya. </li><li>Merancang kebutuhan sistem komputer </li><li>Mengkonfigurasi keamanan jaringan </li><li>Mengkreasi konten digital </li><li>Memahami hukum dan perundang-undangan terkait isu digital </li><li>Memahami pemanfaatan teknologi digital dalam masyarakat</li></ol>\n<p></p>\n<p>Kemampuan membaca, menulis, berbicara, menghitung dan memecahkan suatu masalah disebut denganliterasi. Kemampuan literasi saat ini juga terus berkembang searah dengan perkembangan teknologi digital dengan segala kemudahannya mencari materi atau informasi dari berbagai sumber. Kemampuan literasi dalam memanfaatkan teknologi digital atau biasa disebut literasi digital sangat penting dalam kehidupan kita, karena saat ini kita dituntut tidak hanya melek teknologi tapi juga dituntut untuk bisa memiliki kemampuan analitis dan kritis dalam mengolah informasi yang didapatkan dari berbagai sumber, karena tidak semua informasi harus diterima kebenarannya.&#160;</p>\n<p>Berkembangnya teknologi menghadirkan perubahan pada kehidupan sehari-hari. Keterhubungan masyarakat Indonesia dengan internet  sudah mencapai lebih dari setengah populasi penduduknya, dan angka ini akan terus meningkat setiap tahunnya. Peningkatan pengguna  teknologi internet di Indonesia haruslah diikuti dengan peningkatan kualitas sumber daya manusianya.</p>\n"
+        },
+        {
+          "id": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "indent": 1,
+          "location": "pages/item-217c8430-43fb-49a8-b953-1084cb31f0cb/index.html",
+          "slug": "literasi-digital/mesin-pencari",
+          "order": 0,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "Mesin Pencari",
+          "description": "Mesin Pencari\n\n    BACAAN\n      \n    Rumit\nPada akhir pelajaran, Siswa dapat mengidentifikasi ...\nMendefinisikan mesin pencari dan menjelaskan fungsinya.Menggunakan mesin pencari untuk mencari inform",
+          "metadata": {
+            "created": 1721194181,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "hideInMenu": false,
+            "readtime": 1,
+            "pageType": "content",
+            "icon": "lrn:page"
+          },
+          "contents": "\n<meme-maker alt=\"Cat stalking a small toy\" image-url=\"https://www.rspermata.co.id/img?src=ff079fafc78ece434346837bdf423462.jpg\" top-text=\"BACAAN UHH\" bottom-text=\"Rumit\">\n    <div>BACAAN UHH</div>\n      <img src=\"https://www.rspermata.co.id/img?src=ff079fafc78ece434346837bdf423462.jpg\" alt=\"Cat stalking a small toy\" preload=\"lazy\" aria-describedby=\"\"/>\n    <div>Rumit</div></meme-maker>\n<p></p>\n<learning-component subtitle=\"Mesin Pencari\" type=\"content\" accent-color=\"blue-grey\" icon=\"lrn:page\" title=\"Content\"><p>Pada akhir pelajaran, Siswa dapat ... </p><ol><li>Mendefinisikan mesin pencari dan menjelaskan fungsinya.</li><li>Menggunakan mesin pencari untuk mencari informasi yang relevan dengan topik tertentu.</li><li>Mengevaluasi kredibilitas sumber informasi yang ditemukan di internet.</li></ol><p></p><p></p><p></p></learning-component>\n"
+        },
+        {
+          "id": "item-5ec6a7be-793f-466f-86b6-309a7e041fb5",
+          "indent": 2,
+          "location": "pages/item-5ec6a7be-793f-466f-86b6-309a7e041fb5/index.html",
+          "slug": "literasi-digital/mesin-pencari/menemukan-informasi-di-era-digital",
+          "order": 0,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Menemukan Informasi di Era Digital",
+          "description": "\n\n\n",
+          "metadata": {
+            "created": 1721194802,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<media-image source=\"https://images-assets.nasa.gov/image/KSC-2013-3234/KSC-2013-3234~thumb.jpg\" card citation=\"Mesin Pencari\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<media-image source=\"https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/akurat/images/2023/01/big/img_63cf964272e075-35691876-38088796.png\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p></p>\n"
+        },
+        {
+          "id": "item-b4236a08-9f70-4722-b4fc-6b826a1d5e34",
+          "indent": 2,
+          "location": "pages/item-b4236a08-9f70-4722-b4fc-6b826a1d5e34/index.html",
+          "slug": "literasi-digital/mesin-pencari/cara-kerja",
+          "order": 1,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Cara Kerja",
+          "description": "\n\n",
+          "metadata": {
+            "created": 1721195185,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<media-image source=\"https://whello.id/wp-content/uploads/2020/10/infografis-cara-kerja-mesin-pencari.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p></p>\n"
+        },
+        {
+          "id": "item-65bc1428-e55e-4266-bdfb-4d48f31b692b",
+          "indent": 2,
+          "location": "pages/item-65bc1428-e55e-4266-bdfb-4d48f31b692b/index.html",
+          "slug": "literasi-digital/mesin-pencari/teknik-pencarian",
+          "order": 2,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Teknik Pencarian",
+          "description": "Masukkan Kata Kunci yang Spesifik\n\nGunakan Filter Pencarian: \nundefined\n",
+          "metadata": {
+            "created": 1721267846,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "files": [
+              {
+                "path": "[object Object]kata+kunci-1124639970.png",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kata+kunci-1124639970.png",
+                "url": "files/kata+kunci-1124639970.png",
+                "type": "image/png",
+                "name": "kata+kunci-1124639970.png",
+                "size": 21510
+              },
+              {
+                "path": "[object Object]filter-search.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/filter-search.jpg",
+                "url": "files/filter-search.jpg",
+                "type": "image/jpeg",
+                "name": "filter-search.jpg",
+                "size": 104438
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p><strong>Masukkan Kata Kunci yang Spesifik</strong></p>\n<media-image source=\"files/kata+kunci-1124639970.png\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p><span>Gunakan Filter Pencarian:</span> </p>\n<ul class=\"ml-4\" style=\"box-sizing: border-box; border: 0px solid rgb(229, 231, 235); --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; list-style-position: outside; list-style-type: initial; margin: 0px 0px 0px 1rem; padding: 0px; color: rgb(47, 48, 49); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 15px; text-align: left;\"><div class=\"ml-4\" style=\"box-sizing: border-box; border: 0px solid rgb(229, 231, 235); --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-left: 1rem;\"><media-image source=\"files/filter-search.jpg\" card=\"card\" citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\" role=\"textbox\">undefined</media-image><li style=\"box-sizing: border-box; border: 0px solid rgb(229, 231, 235); --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\"></li></div></ul>\n"
+        },
+        {
+          "id": "item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab",
+          "indent": 2,
+          "location": "pages/item-e72aed3b-ac9f-4906-a2d1-c628a09c08ab/index.html",
+          "slug": "literasi-digital/mesin-pencari/belajar-dari-google",
+          "order": 4,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Belajar Dari Google",
+          "description": "\n\n\nIya ternyata ini hashtag ajakan .. berlangsung karena hari ini bertepatan dengan dimulainya Olimpiade Paris 2024 jadi gua mau bahas itu tuh atau tepatnya gua mau bahas masalahnya Soalnya ternyata ",
+          "metadata": {
+            "created": 1722381567,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "files": [
+              {
+                "path": "[object Object]sepulang-sekolah.JPG",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/sepulang-sekolah.JPG",
+                "url": "files/sepulang-sekolah.JPG",
+                "type": "image/jpeg",
+                "name": "sepulang-sekolah.JPG",
+                "size": 48175
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p><vocab-term links=\"[{&quot;title&quot;:&quot;[{\\&quot;title\\&quot;:\\&quot;[]\\&quot;}]&quot;}]\"></vocab-term>\n\n\n</p>\n<media-image source=\"files/sepulang-sekolah.JPG\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"narrow\" link=\"https://www.youtube.com/watch?v=JT22hVPO5jk&amp;t=92s\" disable-zoom></media-image>\n<p>Iya ternyata ini hashtag ajakan .. berlangsung karena hari ini bertepatan dengan dimulainya Olimpiade Paris 2024 jadi gua mau bahas itu tuh atau tepatnya gua mau bahas masalahnya Soalnya ternyata enggak semua warga Paris senang loh sama diadain Olimpiade di kota Kenapa warga Paris banyak yang nolak Olimpiade bahkan sampai pada barerak di sungainya di learning by Googling Oke buat tahu kenapa orang-orang Paris banyak yang nolak</p>\n<p></p>\n<stop-note title=\"Di atas adalah beberapa kata-kata\" accent-color=\"grey\" icon=\"stopnoteicons:book-icon\" status=\"info\" message=\"&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;Bahwa belajar dari google bisa dibuat sebagai video yang menarik&#60;/strong&#62;\"><p slot=\"message\"><strong>Bahwa belajar dari google bisa dibuat sebagai video yang menarik</strong></p>\n</stop-note>\n<p>Sumber: Vox,</p>\n"
+        },
+        {
+          "id": "item-9a7aaf1f-0c91-4390-9d15-131b08af42af",
+          "indent": 2,
+          "location": "pages/item-9a7aaf1f-0c91-4390-9d15-131b08af42af/index.html",
+          "slug": "literasi-digital/mesin-pencari/refleksi-materi",
+          "order": 6,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Refleksi Materi",
+          "description": "\n\nMembangun identitas digital Anda\nTidak seorang pun tahu siapa Anda jika Anda tidak berkomunikasi secara efektif. Saya ingat ketika merasa kesal karena saya berbicara di suatu tempat. ",
+          "metadata": {
+            "locked": false,
+            "created": 1722382507,
+            "images": {},
+            "videos": {},
+            "updated": 1723015511,
+            "files": [
+              {
+                "path": "[object Object]jurnal.JPG",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/jurnal.JPG",
+                "url": "files/jurnal.JPG",
+                "type": "image/jpeg",
+                "name": "jurnal.JPG",
+                "size": 40806
+              },
+              {
+                "path": "[object Object]3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+                "url": "files/3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+                "type": "image/jpeg",
+                "name": "3c7f9a207ce8b2f3d561c873517b60ad-jurnal.JPG",
+                "size": 40806
+              },
+              {
+                "path": "[object Object]kumpulan-jurnal.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kumpulan-jurnal.jpg",
+                "url": "files/kumpulan-jurnal.jpg",
+                "type": "image/jpeg",
+                "name": "kumpulan-jurnal.jpg",
+                "size": 55198
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<media-image source=\"files/jurnal.JPG\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p>Buat catatan berupa catatan pribadi, dokumentasi dan refleksi&#160;setiap pertemuan.</p>\n<media-image source=\"files/kumpulan-jurnal.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<h2 data-original-level=\"H2\" id=\"header-5e1a2ef2-a682-5ad3-636d-5cb151431d28\">Membangun identitas digital Anda</h2>\n<p>Tidak seorang pun tahu siapa Anda jika Anda tidak berkomunikasi secara efektif. Saya ingat ketika merasa kesal karena saya berbicara di suatu tempat. \"Rasanya tidak ada yang tahu saya ada atau menghargai apa yang saya ketahui\". Dia benar-benar sama atau lebih berbakat daripada saya... apa bedanya?</p>\n<p>Namun, untuk ilmu informasi, ini berarti bahwa apa pun yang diciptakan memengaruhi apa pun yang diciptakan lainnya. Ini khususnya ampuh dalam ruang digital saat kita dapat menciptakan logo, merek, bisnis, situs web, identitas, atau platform yang tampaknya muncul begitu saja. Jika saya memposting di YouTube, saya tidak hanya menyiarkannya di sana dan meningkatkan pengenalan merek saya di ruang tersebut. Itu dikumpulkan ke blog, muncul di hasil pencarian Google dan Bing.</p>\n<h2 data-original-level=\"H2\" id=\"header-ba5dc9a8-3675-3b99-e655-6a00c2560f67\">Buat video terkait pendapat Anda terhadap materi Mesin Pencari yang sudah dipelajari.</h2>\n<p><iframe-loader source=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" height=\"500\" width=\"100%\"><iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" width=\"100%\" height=\"500\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></iframe-loader>\n\n\n</p>\n"
+        },
+        {
+          "id": "item-4fa1de6b-c8f9-4024-a50d-f42a74b46654",
+          "indent": 2,
+          "location": "pages/item-4fa1de6b-c8f9-4024-a50d-f42a74b46654/index.html",
+          "slug": "literasi-digital/mesin-pencari/filter-pencarian",
+          "order": 3,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": " Filter Pencarian",
+          "description": "Cara Pencarian\n\nTanggal: Cari hasil yang diterbitkan dalam jangka waktu tertentu.\nSumber: Cari hasil dari situs web tertentu atau jenis situs web tertentu.\nBahasa: Cari hasil dalam bahasa tertentu.\nU",
+          "metadata": {
+            "created": 1721707297,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>Cara Pencarian&#160;Gunakan Filter Pencarian: Teknik tanggal&#160;</p>\n<media-image source=\"files/filter-search.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p>Tanggal: Cari hasil yang diterbitkan dalam jangka waktu tertentu.</p>\n<p>Sumber: Cari hasil dari situs web tertentu atau jenis situs web tertentu.</p>\n<p>Bahasa: Cari hasil dalam bahasa tertentu.</p>\n<p>Ukuran: Cari hasil dengan ukuran file tertentu.</p>\n<p>Tipe File: Cari</p>\n"
+        },
+        {
+          "id": "item-1f991c10-9307-4f0c-80f7-2ac058f65b6a",
+          "indent": 2,
+          "location": "pages/item-1f991c10-9307-4f0c-80f7-2ac058f65b6a/index.html",
+          "slug": "literasi-digital/mesin-pencari/refleksi-materi-mesin-search",
+          "order": 5,
+          "parent": "item-217c8430-43fb-49a8-b953-1084cb31f0cb",
+          "title": "Refleksi Materi Mesin Search",
+          "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+          "metadata": {
+            "created": 1722396329,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "hideInMenu": false,
+            "readtime": 1
+          },
+          "contents": "\n<learning-component subtitle=\"MESIN PENCARI\" type=\"activity\" accent-color=\"orange\" title=\"Activity\" icon=\"hax:ticket\"><p>Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap <b>Belajar Dari Google</b> yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang harus diperhatikan dalam membuat <b>Belajar Dari Google</b>? Tuliskan jawaban di form yang tersedia.</p></learning-component>\n<iframe-loader source=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" height=\"500\" width=\"100%\">\n<iframe width=\"100%\" height=\"500\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\"></iframe></iframe-loader>\n"
+        },
+        {
+          "id": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "indent": 1,
+          "location": "pages/item-d42083d1-68bf-4c1e-8444-04f4f824d0d7/index.html",
+          "slug": "literasi-digital/membaca-lateral",
+          "order": 1,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "Membaca Lateral",
+          "description": "\n\nmengevaluasi suatu sumber informasi melalui website lain yang terpercaya mengenai sumber tersebut\n\n",
+          "metadata": {
+            "created": 1722218413,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "pageType": "lesson",
+            "icon": "hax:lesson"
+          },
+          "contents": "\n<p></p>\n<media-image source=\"https://statik.tempo.co/data/2021/10/10/id_1057386/1057386_720.jpg\" card citation=\"Koran Tempo\" accent-color=\"grey\" size=\"wide\" offset=\"none\" disable-zoom alt=\"arti dan makna teks\" caption=\"arti dan makna teks\" link=\"https://newsletter.tempo.co/read/1648668/cekfakta-179seni-memisahkan-fakta-dari-fiksi\" modal-title=\"arti dan makna teks\" _has-caption></media-image>\n<p aria-level=\"3\"><span>mengevaluasi suatu sumber informasi melalui website lain yang terpercaya mengenai sumber tersebut, membaca dan memahami informasi dari berbagai sudut pandang.</span></p>\n<learning-component subtitle=\"SUB MEMBACA LATERAL\" type=\"lesson\" accent-color=\"purple\" title=\"Lesson\" icon=\"hax:lesson\"><p>Pada akhir pelajaran, Siswa dapat ... </p><p></p><ol role=\"textbox\"><li>Mengidentifikasi ciri-ciri konten yang akurat dan terpercaya. </li><li>Memverifikasi teks, gambar, dan video untuk memastikan kebenarannya. </li><li>Memahami teknik fact-checking untuk mendeteksi berita palsu dan hoaks.</li><li>Mendefinisikan membaca lateral dan menjelaskan manfaatnya. </li><li>Menerapkan teknik membaca lateral untuk mengevaluasi informasi digital yang kompleks. </li><li>Mengidentifikasi bias dan propaganda dalam informasi digital.</li></ol><p></p><p></p></learning-component>\n<br/>"
+        },
+        {
+          "id": "item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40",
+          "indent": 2,
+          "location": "pages/item-d3d65f8b-60d2-4311-bd3a-c0f0ef637b40/index.html",
+          "slug": "literasi-digital/membaca-lateral/infografis-digital",
+          "order": 1,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Infografis Digital",
+          "description": "\n\n",
+          "metadata": {
+            "created": 1721714373,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<media-image source=\"https://i.pinimg.com/736x/54/38/eb/5438eb5e2071c981bd8e8485c1f53f5d.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p></p>\n"
+        },
+        {
+          "id": "item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c",
+          "indent": 2,
+          "location": "pages/item-81b79ee1-0266-40b1-bae2-cff9efa8ce2c/index.html",
+          "slug": "literasi-digital/membaca-lateral/pilar-literasi-digital",
+          "order": 2,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Pilar literasi digital",
+          "description": "4 pilar literasi digital yang kemudian digunakan untuk mendukung transformasi digital yang berlangsung di antaranya etika digital, budaya digital, keterampilan digital, dan keamanan digital.\netika di",
+          "metadata": {
+            "created": 1722216022,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>4 pilar literasi digital yang kemudian digunakan untuk mendukung transformasi digital yang berlangsung di antaranya etika digital, budaya digital, keterampilan digital, dan keamanan digital.</p>\n<p>etika digital</p>\n<p>1. Digital Skills (Cakap Bermedia Digital) adalah dasar dari kompetensi digital, yaitu kemampuan mendasar individu dalam mengetahui, memahami dan menggunakan berbagai perangkat keras dan piranti lunak Teknologi Informasi dan Komunikasi (TIK) serta sistem operasi digitalnya.&#160;</p>\n<p>2. Digital Culture (Budaya Menggunakan Media Digital) adalah wujud kewargaan digital dalam konteks ke-Indonesiaan. Perubahan teknologi komunikasi mengubah penggunaan media komunikasi pada masyarakat Indonesia. Perubahan budaya tidak terelakkan jika kita ingin mengikuti irama perubahan dunia digital. Kemudahan mengakses, dengan diikuti kemampuan proses pengolahan data yang cepat dan instan, serta terbukanya akses pada berbagai bidang merupakan tantangan dalam menghadapi era digital saat ini. Budaya digital sebagai budaya baru yang terbentuk harus dapat menciptakan manusia-manusia yang berkarakter dan harus menjadi sarana memperkokoh budaya bangsa Indonesia.&#160;</p>\n<p>3. Digital Ethics (Etis Bermedia Digital), yaitu bagaimana individu sebagai bagian dari masyarakat digital dapat menghadirkan perilaku terbaiknya di dalam ruang digital. Berbagai tantangan dalam penerapan etika bermedia digital, yaitu: a. Pertama, tingginya penetrasi internet dalam kehidupan sehari- hari ini tidak hanya terlihat dari angka penggunaannya saja, namun juga terlihat dari durasi menggunakan internet dalam keseharian masyarakat kita. b. Kedua, lambatnya adaptasi perilaku masyarakat kita terhadap berubahnya media komunikasi dari konvensional menjadi digital. Perubahan ini menyediakan kesempatan yang sangat luas dan tidak terbatas dikarenakan karakter media digital.</p>\n<p></p>\n<ebook-button title=\"Modul Kecakapan Digital\" icon=\"icons:book\" link=\"https://eprints.uad.ac.id/52643/1/1.Cakap%20Bermedia%20Digital.pdf\"></ebook-button>\n"
+        },
+        {
+          "id": "item-300abfcb-8cea-4127-a7ac-dd60fcf03083",
+          "indent": 2,
+          "location": "pages/item-300abfcb-8cea-4127-a7ac-dd60fcf03083/index.html",
+          "slug": "literasi-digital/membaca-lateral/aman-bermedia-digital",
+          "order": 3,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Aman Bermedia Digital",
+          "description": "Digital Safety (Aman Bermedia Digital) penting bagi individu agar dapat menjaga keselamatan dirinya. Perkembangan teknologi informasi memaksa masyarakat dunia dan termasuk Indonesia untuk mengadaptas",
+          "metadata": {
+            "created": 1722216845,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>Digital Safety (Aman Bermedia Digital) penting bagi individu agar dapat menjaga keselamatan dirinya. Perkembangan teknologi informasi memaksa masyarakat dunia dan termasuk Indonesia untuk mengadaptasi gaya hidup baru yang mengandalkan teknologi internet. Perubahan gaya hidup ini menyebabkan lonjakan jumlah pengguna media digital sekaligus juga meningkatkan risiko keamanan digital. Perkembangan teknologi juga membuka peluang lahirnya berbagai modus kejahatan baru yang mengancam keamanan digital.</p>\n<media-image source=\"https://images-assets.nasa.gov/image/SSC-20101202-S02734H/SSC-20101202-S02734H~thumb.jpg\" card citation=\"pintu pemeriksaan\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n"
+        },
+        {
+          "id": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+          "indent": 2,
+          "location": "pages/item-04a22b30-1b80-41bc-bbe0-13702507b9eb/index.html",
+          "slug": "literasi-digital/membaca-lateral/teknik-fact-checking",
+          "order": 0,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Teknik fact-checking",
+          "description": "\n",
+          "metadata": {
+            "created": 1722218739,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "files": [
+              {
+                "path": "[object Object]news.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/news.jpg",
+                "url": "files/news.jpg",
+                "type": "image/jpeg",
+                "name": "news.jpg",
+                "size": 128101
+              }
+            ],
+            "status": ""
+          },
+          "contents": "\n<p>Verifikasi sumber, Bandingkan informasi,&#160;Cari bukti,&#160;Periksa tanggal,&#160;<strong></strong>Gunakan akal sehat</p>\n<simple-cta label=\"Mesin Pencari Fault\" link=\"https://www.cnnindonesia.com/teknologi/20240729184408-192-1126853/elon-musk-tuding-google-blokir-trump-di-mesin-pencarian\" accent-color=\"grey\" icon=\"icons:chevron-right\" remote-link-target=\"{}\" remote-link-url=\"https://www.cnnindonesia.com/teknologi/20240729184408-192-1126853/elon-musk-tuding-google-blokir-trump-di-mesin-pencarian\" edit-mode></simple-cta>\n<media-image source=\"files/news.jpg\" citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"narrow\" card></media-image>\n"
+        },
+        {
+          "id": "item-44f2fef3-dbe9-4f91-bc37-f3c341a0005c",
+          "indent": 3,
+          "location": "pages/item-44f2fef3-dbe9-4f91-bc37-f3c341a0005c/index.html",
+          "slug": "literasi-digital/membaca-lateral/teknik-fact-checking/kredibilitas-sumber-di-internet",
+          "order": 0,
+          "parent": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+          "title": "Kredibilitas Sumber di Internet",
+          "description": "Kredibilitas penulis atau organisasi\n\n",
+          "metadata": {
+            "created": 1721708348,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>Kredibilitas penulis atau organisasi</p>\n<media-image source=\"https://cdn0-production-images-kly.akamaized.net/ZlFxH_i7fW6eQffGlmqbE5qJTEg=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4590919/original/045682900_1695817890-picture-two-young-businessmen-street-shaking-hands_1_.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n"
+        },
+        {
+          "id": "item-06c1dc97-f45c-4183-b0ac-12d280922451",
+          "indent": 3,
+          "location": "pages/item-06c1dc97-f45c-4183-b0ac-12d280922451/index.html",
+          "slug": "literasi-digital/membaca-lateral/teknik-fact-checking/akurasi",
+          "order": 1,
+          "parent": "item-04a22b30-1b80-41bc-bbe0-13702507b9eb",
+          "title": "Akurasi",
+          "description": "Akurasi informasi.\n",
+          "metadata": {
+            "created": 1721708399,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<h2 data-original-level=\"H2\" id=\"header-c6b1c48b-85e1-9e3b-d17f-645488f6d86a\">Akurasi informasi.</h2>\n<media-image source=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicbtK_Zfe4InyHZ3LJGrIZlusRqfdbBBh0Hs-Wyq2_0ELAvcKVDdfPGwc9ja1-A0j3FHJGBpv_LWahjslGX9tEy-kUlwRQJO2izKNDZMKqPbQXTO5FxPKKjFgY4dG2CLI0mD57gaUZYiCN/s320/media+berita.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n"
+        },
+        {
+          "id": "item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e",
+          "indent": 2,
+          "location": "pages/item-11bc1207-6b74-4ec7-bc2a-0956f3666c4e/index.html",
+          "slug": "literasi-digital/membaca-lateral/refleksi-materi-membaca",
+          "order": 5,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Refleksi Materi Membaca",
+          "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+          "metadata": {
+            "created": 1722395659,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<learning-component subtitle=\"MEMBACA LATERAL\" type=\"activity\" accent-color=\"orange\" title=\"Activity\" icon=\"hax:ticket\"><p>Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang harus diperhatikan dalam membuat konten sosmed? Tuliskan jawaban di form yang tersedia.</p></learning-component>\n<iframe-loader source=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" height=\"500\" width=\"100%\"><iframe-loader source=\"https://haxtheweb.org\" height=\"500\" width=\"100%\"><iframe width=\"100%\" height=\"500\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\"></iframe></iframe-loader>\n</iframe-loader>\n"
+        },
+        {
+          "id": "item-aea7ace1-aae1-4d3c-be1b-91db9f217d77",
+          "indent": 2,
+          "location": "pages/item-aea7ace1-aae1-4d3c-be1b-91db9f217d77/index.html",
+          "slug": "literasi-digital/membaca-lateral/situs-cek-fakta",
+          "order": 4,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "Situs Cek Fakta",
+          "description": "berikut beberapa web yang untuk membedakan fakta dan opini\n\nCek Fakta: \n\nBenarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?Benar, tapi…Indonesia memang telah mengurangi kemiskinan ekst",
+          "metadata": {
+            "created": 1722403442,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p data-primary=\"4\">berikut beberapa web yang untuk membedakan fakta dan opini</p>\n<p><strong><br></strong></p>\n<p><strong>Cek Fakta: </strong></p>\n<p><strong><br></strong></p>\n<self-check accent-color=\"grey\" title=\"CEK FAKTA\" image=\"https://images.theconversation.com/files/603635/original/file-20240628-19-8bt5p9.jpg\" alt=\"Cek Fakta: benarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?\" resource=\"#c8236ebd-bddf-8b1a-721b-0a09b69dc138\"><span slot=\"question\"><strong>Benarkah angka kemiskinan ekstrem dan pengangguran sudah menurun?</strong></span><span>Benar, tapi…Indonesia memang telah mengurangi kemiskinan ekstrem, dari 19% pada tahun 2002 menjadi 1,5% pada 2022. Upaya ini karena adanya pertumbuhan sektor pekerjaan dan peningkatan gaji riil.</span></self-check>\n<citation-element creator=\"https://theconversation.com\" license=\"by\" title=\"https://theconversation.com\" source=\"https://theconversation.com/cek-fakta-benarkah-angka-kemiskinan-ekstrem-dan-pengangguran-sudah-menurun-233530\" date=\"31/07/2024\" scope=\"sibling\" license-name=\"Attribution\" license-link=\"https://creativecommons.org/licenses/by/4.0/\"></citation-element>\n<p><a href=\"https://cekfakta.com/\">Cek Fakta</a></p>\n"
+        },
+        {
+          "id": "item-461ed189-d4b1-40c4-b5fb-dbd8872126f7",
+          "indent": 2,
+          "location": "pages/item-461ed189-d4b1-40c4-b5fb-dbd8872126f7/index.html",
+          "slug": "literasi-digital/membaca-lateral/bias",
+          "order": 6,
+          "parent": "item-d42083d1-68bf-4c1e-8444-04f4f824d0d7",
+          "title": "BIAS",
+          "description": "\nLink to content\n\nSecara istilah, bias adalah kecenderungan atau penyimpangan dari kebenaran dalam pengumpulan data, analisis data, interpretasi dan publikasi yang dapat menimbulkan kesimpulan yang s",
+          "metadata": {
+            "created": 1722404273,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p></p>\n<p><a href=\"https://komunikasipraktis.com/pengertian-media-bias-atau-bias-pemberitaan-di-media/\">Link to content</a></p>\n<media-image source=\"https://3.bp.blogspot.com/-sTT9wjMv3x0/WElvJMEDxJI/AAAAAAAAP_4/KrkyKD7Npf0OwOCHU_uk_irBNWg3OFWoACLcB/s320/framing-media-berita.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<p aria-level=\"3\">Secara istilah, bias adalah kecenderungan atau penyimpangan dari kebenaran dalam pengumpulan data, analisis data, interpretasi dan publikasi yang dapat menimbulkan kesimpulan yang salah. Kondisi tersebut secara perlahan akan mempengaruhi penilaian dan keputusan seorang individu saat hendak memutuskan sesuatu hal.</p>\n<p><b>pengaruh budaya, pengalaman personal, serta media massa</b></p>\n<p><a href=\"https://www.perplexity.ai/search/buat-pertanyaan-seputar-membac-rc4zAF.JSim_RTNP_fZgcw\">Link to content</a></p>\n"
+        },
+        {
+          "id": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "indent": 1,
+          "location": "pages/item-d62c2858-5760-41fc-aa2c-1a072867000b/index.html",
+          "slug": "literasi-digital/sistem-komputer",
+          "order": 2,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "Sistem Komputer",
+          "description": "\n\n",
+          "metadata": {
+            "created": 1722821997,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "pageType": "lesson",
+            "icon": "hax:lesson",
+            "tags": "DIY",
+            "image": "https://content.instructables.com/F96/Q2MN/LJWVJ000/F96Q2MNLJWVJ000.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150"
+          },
+          "contents": "\n<media-image source=\"https://vanzilz18.wordpress.com/wp-content/uploads/2011/03/motherboard1.jpg\" card accent-color=\"grey\" size=\"wide\" offset=\"narrow\" box data-margin=\"xl\"></media-image>\n<media-image source=\"https://dce.telkomuniversity.ac.id/wp-content/uploads/2023/07/Picture2-1.jpg\" card citation=\"Robot mengunakan Arduino\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<media-image source=\"https://i.pcmag.com/imagery/reviews/00b0JMWUTTmX2wk6IfG6YVo-2.fit_scale.size_1028x578.v1642610116.png\" card citation=\"PC MAG\" accent-color=\"grey\" size=\"wide\" offset=\"none\" caption=\"Ultraloq U-Bolt Pro Wi-Fi adalah kunci pintar yang dapat diandalkan dan serbaguna yang memungkinkan Anda mengunci dan membuka kunci pintu dengan suara dan sidik jari, serta melalui papan tombol, aplikasi seluler, atau kunci tradisional.\" link=\"https://www.pcmag.com/picks/the-best-smart-home-devices\" disable-zoom modal-title=\"Ultraloq U-Bolt Pro Wi-Fi adalah kunci pintar yang dapat diandalkan dan serbaguna yang memungkinkan Anda mengunci dan membuka kunci pintu dengan suara dan sidik jari, serta melalui papan tombol, aplikasi seluler, atau kunci tradisional.\" _has-caption></media-image>\n<p><strong>Smart Home: Kunci pintar</strong></p>\n<media-image source=\"https://content.instructables.com/F96/Q2MN/LJWVJ000/F96Q2MNLJWVJ000.jpg?auto=webp&amp;fit=bounds&amp;frame=1&amp;height=1024&amp;width=1024auto=webp&amp;frame=1&amp;height=150\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\" link=\"https://www.instructables.com/Line-Follower-With-ESP32-CAM-L0Cost-Robot-Controll/\" alt=\"https://www.instructables.com/\" disable-zoom></media-image>\n<p><strong><strong>Robot Line Follower:</strong><br></strong></p>\n<media-image source=\"https://content.instructables.com/FHG/S061/LZFKQ2OP/FHGS061LZFKQ2OP.jpg?auto=webp&amp;frame=1&amp;width=932&amp;height=1024&amp;fit=bounds&amp;md=e20206db8ffc8871060b4527c04b9237\" card citation=\"https://www.instructables.com/\" accent-color=\"grey\" size=\"wide\" offset=\"none\" link=\"https://www.instructables.com/\" disable-zoom></media-image>\n<p><strong><strong><strong>Weather Station: <b>Sistem Penyiraman Tanaman Otomatis <a href=\"https://www.instructables.com/Automatic-Plant-Watering-System-7/\" target=\"_blank\">Link Project</a></b></strong><br></strong></strong></p>\n<br/><br/>"
+        },
+        {
+          "id": "item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8",
+          "indent": 2,
+          "location": "pages/item-a788e79b-ec08-4d5d-9ee3-8b13e24dcea8/index.html",
+          "slug": "literasi-digital/sistem-komputer/refleksi-materi-single-board-controller",
+          "order": 12,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Refleksi Materi Single Board Controller",
+          "description": "Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang ha",
+          "metadata": {
+            "created": 1722996713,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "hideInMenu": false,
+            "readtime": 1
+          },
+          "contents": "\n<learning-component subtitle=\"SISTEM KOMPUTER / IOT\" type=\"activity\" accent-color=\"orange\" title=\"Activity\" icon=\"hax:ticket\"><p>1. Kalian telah mempelajari materi single board computer/controller. Coba perhatikan lingkungan di sekitar kalian, adakah penerapan penggunaan <b>single board computer/controller</b> di lingkungan kalian? Jika ada, coba kalian analisis komponen apa saja yang digunakan pada aplikasi tersebut! </p><p>2. Jika tidak ada, coba kalian perkirakan penerapan single board computer/ controller apa yang mungkin dapat diterapkan pada lingkungan kalian.</p>\n<p></p><media-image source=\"https://i.ibb.co.com/0YPRY2d/asesmen-bab-Sistem-Komputer.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n\n</learning-component>\n<learning-component accent-color=\"orange\" type=\"activity\" subtitle=\"SISTEM KOMPUTER / IOT\" title=\"Activity\" icon=\"hax:ticket\">  <p>Lakukan aktivitas berikut secara individu. Munculkan pendapat kritis kalian terhadap suatu konten di sosmed yang pernah kalian lihat dan amati di sekitar kalian. Menurut kalian aspek apa saja yang harus diperhatikan dalam membuat konten sosmed? Tuliskan jawaban di form yang tersedia.</p>\n</learning-component>\n<iframe-loader source=\"https://forms.gle/zZGidZyCjhm6Ekvk7\" height=\"500\" width=\"100%\" class=\"blinkfocus\">\n<iframe-loader source=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" height=\"500\" width=\"100%\"><iframe width=\"100%\" height=\"500\" src=\"https://forms.gle/zZGidZyCjhm6Ekvk7\"></iframe></iframe-loader>\n</iframe-loader>\n"
+        },
+        {
+          "id": "item-ccb6dfa5-acd9-48fe-a755-7cc465128167",
+          "indent": 2,
+          "location": "pages/item-ccb6dfa5-acd9-48fe-a755-7cc465128167/index.html",
+          "slug": "literasi-digital/sistem-komputer/single-board-computer",
+          "order": 1,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Single Board Computer",
+          "description": "Mengidentifikasi kebutuhan pengguna untuk sistem komputer\n\nrasionalcara, seperti survei, wawancara, dan observasi.didokumentasikan dengan jelas dan ringkas.\n\n\n\n\n\n",
+          "metadata": {
+            "created": 1721795398,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<h2 data-original-level=\"H2\" id=\"header-097e67e7-1839-fdad-f874-82a53b1f4484\"><strong>Mengidentifikasi kebutuhan pengguna untuk sistem komputer</strong></h2>\n<media-image source=\"https://miro.medium.com/v2/resize:fit:736/1*aCBZ6a7lldrip-4rxXvP_Q.jpeg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<media-image source=\"https://www.musbikhin.com/wp-content/uploads/2019/09/promo1.png\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<ul data-padding=\"m\"><li><span><b>SBC: </b>komputer lengkap yang dibangun di atas papan sirkuit tunggal, dengan mikroprosesor , memori , input/output (I/O), dan fitur lain yang dibutuhkan komputer yang berfungsi</span></li><li>Contoh SBC: Raspberry</li><li></li></ul>\n<wikipedia-query language=\"id\" element-visible search=\"Raspberry Pi\" headers=\"{&quot;cache&quot;:&quot;force-cache&quot;}\"></wikipedia-query>\n"
+        },
+        {
+          "id": "item-b25e169c-66ac-4aef-90b1-2a3d373b6156",
+          "indent": 2,
+          "location": "pages/item-b25e169c-66ac-4aef-90b1-2a3d373b6156/index.html",
+          "slug": "literasi-digital/sistem-komputer/sistem-komputer-esp32",
+          "order": 0,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Sistem Komputer Esp32",
+          "description": "\n\nBy the end of this lesson, you should be able to...Mengidentifikasi kebutuhan pengguna untuk sistem komputer.Menganalisis kebutuhan pengguna dan menerjemahkannya menjadi spesifikasi sistem.Merancan",
+          "metadata": {
+            "created": 1721795047,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>ESP32 dan arduino</p>\n<media-image source=\"https://europe1.discourse-cdn.com/arduino/optimized/4X/7/1/3/713e10961805c120ec407f792e76df45ba29884f_2_1023x552.jpeg\" card citation=\"sumber: https://forum.arduino.cc/t/help-serial-communication-between-an-esp32-cam-and-arduino-mega2560/684313\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<learning-component subtitle=\"Unit 1\" type=\"\"><p>Pada akhir pelajaran, Siswa dapat ...</p><p></p><ol role=\"textbox\"><li>Mengidentifikasi kebutuhan pengguna untuk sistem komputer.</li><li>Menganalisis kebutuhan pengguna dan menerjemahkannya menjadi spesifikasi sistem.</li><li>Merancang arsitektur sistem komputer yang sesuai dengan kebutuhan pengguna.</li></ol><p></p><p></p></learning-component>\n"
+        },
+        {
+          "id": "item-c0e414b4-5884-46d0-b7e6-e5e1678169b2",
+          "indent": 2,
+          "location": "pages/item-c0e414b4-5884-46d0-b7e6-e5e1678169b2/index.html",
+          "slug": "literasi-digital/sistem-komputer/bank-soal",
+          "order": 11,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Bank Soal",
+          "description": "\n",
+          "metadata": {
+            "created": 1722482627,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "tags": "soal",
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p></p>\n<site-collection-list accent-color=\"grey\" responsive-size=\"lg\" published=\"false\" limit=\"8\" sort=\"title\" sort-obj=\"{&quot;title&quot;:&quot;ASC&quot;}\" parent=\"item-c0e414b4-5884-46d0-b7e6-e5e1678169b2\" hide-in-menu=\"false\"></site-collection-list>\n"
+        },
+        {
+          "id": "item-e113395d-1d8c-4886-913a-e58227d5ac04",
+          "indent": 2,
+          "location": "pages/item-e113395d-1d8c-4886-913a-e58227d5ac04/index.html",
+          "slug": "literasi-digital/sistem-komputer/pilih-kata-yang-tepat",
+          "order": 5,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "pilih kata yang tepat",
+          "description": "\n",
+          "metadata": {
+            "created": 1722482801,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": false,
+            "hideInMenu": false,
+            "tags": "soal, ujian",
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "image": "https://images-assets.nasa.gov/image/jsc2023e048791/jsc2023e048791~thumb.jpg"
+          },
+          "contents": "\n<p>Pertanyaan yang pintar dan dibuat untuk latihan jkhjkhjkjkjkjk . kljkjklj .</p>\n<h2 data-original-level=\"H2\" id=\"header-ea331a96-0438-6cd2-04dd-8799e5186d83\">Contoh</h2>\n<md-block accent-color=\"grey\" source=\"https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/master/README.md\"></md-block>\n<p></p>\n<block-quote citation=\"Padmé Amidala: Star wars, Episode II\" accent-color=\"grey\"><p role=\"textbox\">So this is how liberty dies... with thunderous applause</p></block-quote>\n<mark-the-words question=\"Select all of the contractions\" statement=\"I have not been to the farm-house, however; it'll be fun to attend!\" max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#fce9e8f9-5e0b-ec42-8b9d-cfe7a613464e\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" quiz-name=\"default\"><input type=\"checkbox\" value=\"it'll\" correct=\"correct\"></mark-the-words>\n"
+        },
+        {
+          "id": "item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2",
+          "indent": 2,
+          "location": "pages/item-687b40fc-20f1-4f3c-b2a4-2caffe2873e2/index.html",
+          "slug": "literasi-digital/sistem-komputer/cara-komputer-bekerja",
+          "order": 2,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Cara Komputer Bekerja",
+          "description": "\nGambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan&#160;&#160;keluaran melalui port. K",
+          "metadata": {
+            "created": 1721799169,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "files": [
+              {
+                "path": "[object Object]koomponen-komputer.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/koomponen-komputer.jpg",
+                "url": "files/koomponen-komputer.jpg",
+                "type": "image/jpeg",
+                "name": "koomponen-komputer.jpg",
+                "size": 97811
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<media-image source=\"files/koomponen-komputer.jpg\" card citation=\"sumber Buku Informatika Kelas X\" accent-color=\"grey\" size=\"wide\" offset=\"wide\" caption=\"Gambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan  keluaran melalui port. Komponen pada pemroses (kotak besar) terdiri atasprocessor (CPU) yang berupa chip, ROM, RAM, Hard drive, CD ROM, danloppy drive (sekarang tidak populer). CD ROM dan Floppy drive ialah alatyang terhubung dengan media penyimpan eksternal, yaitu (CD dan loppydisk). Setiap komponen tersebut terhubung dengan BUS.\" figure-label-title=\"komponen komputer\" modal-title=\"komponen komputer\" _has-caption></media-image>\n<p>Gambar 4.16 menggambarkan diagram kotak arsitektur sederhana sebuah komputer di mana pemroses (kotak besar) menerima masukan dari piranti masukan dan menghasilkan&#160;&#160;keluaran melalui port. Komponen pada pemroses (kotak besar) terdiri atasprocessor (CPU) yang berupa chip, ROM, RAM, Hard drive, CD ROM, danloppy drive (sekarang tidak populer). CD ROM dan Floppy drive ialah alatyang terhubung dengan media penyimpan eksternal, yaitu (CD dan loppydisk). Setiap komponen tersebut terhubung dengan BUS</p>\n"
+        },
+        {
+          "id": "item-93304485-aa9c-4657-a260-13bb4492dc28",
+          "indent": 2,
+          "location": "pages/item-93304485-aa9c-4657-a260-13bb4492dc28/index.html",
+          "slug": "literasi-digital/sistem-komputer/pemasangan-program-ide",
+          "order": 7,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Pemasangan Program IDE",
+          "description": "ide online&#160;https://wokwi.com/\n\n",
+          "metadata": {
+            "created": 1722826247,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>ide online&#160;<a href=\"https://wokwi.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://wokwi.com/</a></p>\n<media-image source=\"https://wokwi.com/images/social-cover.png\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n"
+        },
+        {
+          "id": "item-006ba611-c030-4a8d-b542-d18742482848",
+          "indent": 2,
+          "location": "pages/item-006ba611-c030-4a8d-b542-d18742482848/index.html",
+          "slug": "literasi-digital/sistem-komputer/komponen-single-board-controller",
+          "order": 4,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Komponen Single Board Controller",
+          "description": "Bredboard (papan sirkuit)BateraiLEDResistorKabel JumperInput/output Device (I/O)Modul Sensor\n\n",
+          "metadata": {
+            "created": 1722826663,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "files": [
+              {
+                "path": "[object Object]image.png",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/image.png",
+                "url": "files/image.png",
+                "type": "image/png",
+                "name": "image.png",
+                "size": 178631
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<ol><li>Bredboard (papan sirkuit)</li><li>Baterai</li><li>LED</li><li>Resistor</li><li>Kabel Jumper</li><li>Input/output Device (I/O)</li><li>Modul Sensor</li></ol>\n<media-image source=\"files/image.png\" alt=\"files/image.png\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n"
+        },
+        {
+          "id": "item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619",
+          "indent": 2,
+          "location": "pages/item-4a980862-a1fe-4bc5-8cb7-cfb03f23c619/index.html",
+          "slug": "literasi-digital/sistem-komputer/contoh-led-geser",
+          "order": 8,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Contoh LED Geser",
+          "description": "link program LED\n\n\n",
+          "metadata": {
+            "created": 1722827068,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "files": [
+              {
+                "path": "[object Object]esp32.JPG",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/esp32.JPG",
+                "url": "files/esp32.JPG",
+                "type": "image/jpeg",
+                "name": "esp32.JPG",
+                "size": 69912
+              }
+            ],
+            "status": "",
+            "tags": "DIY",
+            "image": "files/esp32.JPG"
+          },
+          "contents": "\n<h2 data-original-level=\"H2\" id=\"header-fdb4ca1c-7917-3916-da21-2142f081a24b\"><b>link <a href=\"https://wokwi.com/projects/382183094870001665\" target=\"_blank\">program LED</a></b></h2>\n<media-image source=\"files/esp32.JPG\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<a href=\"https://wokwi.com/projects/382183094870001665\">https://wokwi.com/projects/382183094870001665</a>\n"
+        },
+        {
+          "id": "item-c4cb4605-d594-41db-89c3-12b2d539940d",
+          "indent": 2,
+          "location": "pages/item-c4cb4605-d594-41db-89c3-12b2d539940d/index.html",
+          "slug": "literasi-digital/sistem-komputer/single-board-controller",
+          "order": 3,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Single Board Controller",
+          "description": "\n\n\n",
+          "metadata": {
+            "created": 1722835319,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p></p>\n<media-image source=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBAfl8ugUQib70gInx_JD-Rf7cCGD_eMXSozq9njbJ6LlxzbgzfQkggExIulDE5Hxhy0C4O5ReuIsqxVexRt83wSmliUuha_LlACBHWknPUxdqD8v8-ktAs5_3mPzrVPbf9yW79l3UEWj2/s400/arduino_lcd.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<wikipedia-query language=\"id\" element-visible search=\"arduino\" headers=\"{&quot;cache&quot;:&quot;force-cache&quot;}\"></wikipedia-query>\n"
+        },
+        {
+          "id": "item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c",
+          "indent": 2,
+          "location": "pages/item-d8f2c8a6-fb54-48ee-954f-dfd35e7b125c/index.html",
+          "slug": "literasi-digital/sistem-komputer/contoh-led-jeda",
+          "order": 9,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Contoh LED Jeda",
+          "description": "\n\n\n\n",
+          "metadata": {
+            "created": 1722917064,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "files": [
+              {
+                "path": "[object Object]4a41f893d392b0ed071777edf08f220d-image.png",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/4a41f893d392b0ed071777edf08f220d-image.png",
+                "url": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+                "type": "image/png",
+                "name": "4a41f893d392b0ed071777edf08f220d-image.png",
+                "size": 49445
+              }
+            ],
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "image": "files/4a41f893d392b0ed071777edf08f220d-image.png",
+            "tags": "DIY"
+          },
+          "contents": "\n<p></p>\n<media-image source=\"files/4a41f893d392b0ed071777edf08f220d-image.png\" alt=\"files/4a41f893d392b0ed071777edf08f220d-image.png\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<code-sample copy-clipboard-button type=\"html\">\n  \n<template preserve-content=\"preserve-content\">int buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put your setup code here, to run once:\n pinMode(13, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(13, HIGH); //nyalakan LED \n  delay(1000); //beri jeda selama 1 detik\n  digitalWrite(13, LOW); //nyalakan LED \n  delay(1000);\n}</template></code-sample>\n"
+        },
+        {
+          "id": "item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf",
+          "indent": 2,
+          "location": "pages/item-f0e3b7ae-66b1-4571-b8a5-fa29c9b987bf/index.html",
+          "slug": "literasi-digital/sistem-komputer/contoh-speaker",
+          "order": 10,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Contoh Speaker",
+          "description": "\n\n\nint buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put yo",
+          "metadata": {
+            "created": 1722917452,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "files": [
+              {
+                "path": "[object Object]b087ab0a0c80f847dc5e71b745c54894-image.png",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+                "url": "files/b087ab0a0c80f847dc5e71b745c54894-image.png",
+                "type": "image/png",
+                "name": "b087ab0a0c80f847dc5e71b745c54894-image.png",
+                "size": 37975
+              }
+            ],
+            "tags": "DIY",
+            "image": "files/b087ab0a0c80f847dc5e71b745c54894-image.png"
+          },
+          "contents": "\n<p>Simulator bisa memutar media buzzer dengan perintah pada ESP32.</p>\n<media-image source=\"files/b087ab0a0c80f847dc5e71b745c54894-image.png\" alt=\"files/b087ab0a0c80f847dc5e71b745c54894-image.png\" accent-color=\"grey\" size=\"wide\" offset=\"narrow\" card></media-image>\n<code-sample copy-clipboard-button type=\"html\"><template preserve-content=\"preserve-content\">int buzzer = 14;\n\nvoid setup() {\n  pinMode(buzzer, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(buzzer, HIGH);\n  delay(1000);\n  digitalWrite(buzzer, LOW);\n  delay(1000);\n}\n\n\nvoid setup() {\n  // put your setup code here, to run once:\n pinMode(13, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(13, HIGH); //nyalakan LED \n  delay(1000); //beri jeda selama 1 detik\n  digitalWrite(13, LOW); //nyalakan LED \n  delay(1000);\n}</template></code-sample>\n"
+        },
+        {
+          "id": "item-d8571138-d44a-444c-9433-10324756fafb",
+          "indent": 2,
+          "location": "pages/item-d8571138-d44a-444c-9433-10324756fafb/index.html",
+          "slug": "literasi-digital/sistem-komputer/kontrol-lampu-jarak-jauh",
+          "order": 6,
+          "parent": "item-d62c2858-5760-41fc-aa2c-1a072867000b",
+          "title": "Kontrol Lampu Jarak Jauh",
+          "description": "Alat bisa mengendalikan perangkat-perangkat di rumah kita melalui aplikasi pada Smartphone Android kita dan koneksi bluetooth.\nPeralatan:\n\nArduino, modul relay, modul Wi-Fi, dan aplikasi smartphone (",
+          "metadata": {
+            "created": 1723001855,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "tags": "DIY",
+            "locked": false,
+            "readtime": 1,
+            "image": "https://nofgipiston.wordpress.com/wp-content/uploads/2020/02/img20200205052414.jpg",
+            "status": ""
+          },
+          "contents": "\n<p>Alat bisa mengendalikan perangkat-perangkat di rumah kita melalui aplikasi pada Smartphone Android kita dan <b>koneksi bluetooth</b>.</p>\n<p>Peralatan:</p>\n<media-image source=\"https://nofgipiston.wordpress.com/wp-content/uploads/2020/02/img20200205052414.jpg\" card citation=\"This is my citation.\" accent-color=\"grey\" size=\"wide\" offset=\"none\" link=\"https://nofgipiston.wordpress.com/2020/02/11/membuat-remote-on-off-lampu-via-hp-android-menggunakan-arduino-dan-bluetooth-module/\" disable-zoom></media-image>\n<p>Arduino, modul relay, modul Wi-Fi, dan aplikasi smartphone (misalnya Blynk)</p>\n<p><strong>Cara kerja:</strong></p>\n<ol data-sourcepos=\"14:3-14:57\"><li data-sourcepos=\"14:3-14:57\">Arduino terhubung ke modul Wi-Fi dan aplikasi Blynk.</li><li data-sourcepos=\"15:3-15:92\">Melalui aplikasi, kamu bisa mengirimkan perintah untuk menyalakan atau mematikan relay.</li><li data-sourcepos=\"16:3-16:69\">Relay akan menghubungkan dan memutuskan aliran listrik ke lampu.</li></ol>\n<p></p>\n"
+        },
+        {
+          "id": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+          "indent": 1,
+          "location": "pages/item-f2440f4c-e08a-491f-a52c-51e13e10db5e/index.html",
+          "slug": "literasi-digital/konten-dan-hukum-ite",
+          "order": 3,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "Konten Dan Hukum ITE",
+          "description": "\n",
+          "metadata": {
+            "created": 1722398000,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": false,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "icon": "hax:lesson"
+          },
+          "contents": "\n<p>fgfg</p>\n"
+        },
+        {
+          "id": "item-687d29d1-c7a6-4600-9a22-88dba295a989",
+          "indent": 2,
+          "location": "pages/item-687d29d1-c7a6-4600-9a22-88dba295a989/index.html",
+          "slug": "literasi-digital/konten-dan-hukum-ite/refleksi",
+          "order": 1,
+          "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+          "title": "Refleksi",
+          "description": "\n",
+          "metadata": {
+            "created": 1721270090,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<p>Semua tugas adalah pengantar untuk berlatih bekerja di laboratorium komputer dan Anda akan mulai mengerjakannya di akhir kelas. Setelah selesai mengerjakan lab, Anda akan menunjukkan bahwa Anda telah mengerjakannya dengan merefleksikannya dalam bentuk tanggapan tertulis dan tanggapan video.</p>\n<h2 id=\"header-e7929368-54e4-4292-cc5c-28df64fcf221\">Tanggapan tertulis&#160;</h2>\n<p>Untuk setiap teknologi, saya ingin Anda menulis posting blog singkat yang isinya seperti white paper satu halaman tentang teknologi yang sedang dibahas. Usahakan untuk membuatnya sekitar 500 kata, tetapi ketelitian lebih penting daripada \"apakah saya membuat paper yang cukup panjang\".</p>\n<p><span>Asalkan menjawab pertanyaan seperti berikut: </span></p>\n<ul><li>Apa itu dan mengapa itu ada? </li><li>Industri apa yang menggunakannya / siapa saja pemain yang mempopulerkannya? </li><li>Apa saja alternatifnya?</li><li>Tautan / Sumber Daya bagi orang yang ingin mempelajari lebih lanjut tentangnya </li><li>Apa yang Anda hadapi saat menggunakannya? </li><li>Apa yang paling Anda sukai dalam penggunaannya?</li></ul>\n<h2 id=\"header-a6a090f4-4c8e-9cc0-20f7-129079fb1120\">Tanggapan video&#160;</h2>\n<p>Video penjelasan sangat bagus, terutama bagi orang-orang yang sedang bepergian melalui podcast atau yang ingin menyegarkan kembali topik sebelum rapat. Buat rekaman layar berdurasi 3-5 menit yang menjelaskan topik tersebut, dan berikan beberapa contoh singkat tentang topik tersebut. Ini terbuka untuk interpretasi, tetapi Anda mencoba menjelaskan kepada orang lain mengapa topik ini berharga dan kapan mereka akan menggunakannya. Katakan dengan cepat siapa Anda (branding itu penting!) Jelaskan dalam ~20 detik apa topiknya dan mungkin perluas dengan siapa yang menggunakannya atau mengapa itu penting Bicarakan tentang topik tersebut sambil menunjukkan demo atau tempat yang menurut Anda paling berguna untuk dipelajari (berjalan sambil mengunyah permen karet) Tampilkan tautan ke sumber daya tempat Anda dapat mempelajari lebih lanjut tentangnya. Frase penutup yang mengagumkan untuk mengingat Anda</p>\n<br/>"
+        },
+        {
+          "id": "item-6f4f1431-8d06-4a0e-b5c9-ae331f90742f",
+          "indent": 2,
+          "location": "pages/item-6f4f1431-8d06-4a0e-b5c9-ae331f90742f/index.html",
+          "slug": "literasi-digital/konten-dan-hukum-ite/membuat-berita",
+          "order": 0,
+          "parent": "item-f2440f4c-e08a-491f-a52c-51e13e10db5e",
+          "title": "Membuat Berita",
+          "description": "Membangun identitas digital Anda\n    \n\nTidak seorang pun tahu siapa Anda jika Anda tidak berkomunikasi secara efektif. Saya ingat ketika merasa kesal karena saya berbicara di suatu tempat. ",
+          "metadata": {
+            "created": 1721268475,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "pageType": "reflect",
+            "icon": "courseicons:strategy"
+          },
+          "contents": "\n<h2 data-original-level=\"H2\" id=\"header-5e1a2ef2-a682-5ad3-636d-5cb151431d28\">Membangun identitas digital Anda</h2>\n<p>Tidak seorang pun tahu siapa Anda jika Anda tidak berkomunikasi secara efektif. Saya ingat ketika merasa kesal karena saya berbicara di suatu tempat. \"Rasanya tidak ada yang tahu saya ada atau menghargai apa yang saya ketahui\". Dia benar-benar sama atau lebih berbakat daripada saya... apa bedanya?</p>\n<p>Namun, untuk ilmu informasi, ini berarti bahwa apa pun yang diciptakan memengaruhi apa pun yang diciptakan lainnya. Ini khususnya ampuh dalam ruang digital saat kita dapat menciptakan logo, merek, bisnis, situs web, identitas, atau platform yang tampaknya muncul begitu saja. Jika saya memposting di YouTube, saya tidak hanya menyiarkannya di sana dan meningkatkan pengenalan merek saya di ruang tersebut. Itu dikumpulkan ke blog, muncul di hasil pencarian Google dan Bing.</p>\n<h2 data-original-level=\"H2\" id=\"header-ba5dc9a8-3675-3b99-e655-6a00c2560f67\">Buat video terkait pendapat Anda terhadap materi Mesin Pencari yang sudah dipelajari.</h2>\n<p><iframe-loader source=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" height=\"800\" width=\"100%\" class=\"blinkfocus\"><iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSeYTt4Rvm-hIfqoIsKsaphQkeAhselVLC6ebbj4lRVG85xpWA/viewform?embedded=true\" width=\"100%\" height=\"800\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></iframe-loader>\n\n\n</p>\n"
+        },
+        {
+          "id": "item-a99d6ebf-7101-489e-afe6-f37f227ffe72",
+          "indent": 1,
+          "location": "pages/item-a99d6ebf-7101-489e-afe6-f37f227ffe72/index.html",
+          "slug": "literasi-digital/project-diy",
+          "order": 4,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "PROJECT DIY",
+          "description": "\n\n",
+          "metadata": {
+            "created": 1723000639,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "pageType": "practice",
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "icon": "hax:shovel",
+            "status": ""
+          },
+          "contents": "\n<site-collection-list accent-color=\"grey\" responsive-size=\"lg\" published=\"\" limit=\"8\" sort=\"title\" tags=\"DIY\" sort-obj=\"{&quot;title&quot;:&quot;ASC&quot;}\"></site-collection-list>\n"
+        },
+        {
+          "id": "item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9",
+          "indent": 1,
+          "location": "pages/item-e1001f9b-d900-4c7c-8f4f-a932fd89f3a9/index.html",
+          "slug": "literasi-digital/projek-display-oled",
+          "order": 5,
+          "parent": "item-fbc16ff7-1765-4bdc-82f0-627c990629c1",
+          "title": "Projek Display OLED",
+          "description": "\n\n",
+          "metadata": {
+            "created": 1723014576,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "hideInMenu": false,
+            "locked": false,
+            "readtime": 1,
+            "status": ""
+          },
+          "contents": "\n<video-player accent-color=\"orange\" dark crossorigin=\"anonymous\" source=\"https://youtu.be/jIQSlYtGWTI?si=h_VtHDNJdL3ULN1Z\" track=\"https://haxtheweb.org/files/HAXshort.vtt\" sticky-corner=\"none\" resource=\"#f1e02e9a-23e4-9fe6-a15f-ba75ac0e3d28\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" element-visible lang=\"en\" t=\"{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}\" source-type=\"youtube\" sources=\"[]\" source-data=\"[{&quot;src&quot;:&quot;https://www.youtube.com/embed/jIQSlYtGWTI&quot;,&quot;type&quot;:&quot;&quot;}]\" tracks=\"[]\"></video-player>\n<simple-cta link=\"https://youtube.com/playlist?list=PLlLe2PpVuiVJ7bdUtQHkXIlMzqxeOtrqd&amp;si=CtIx8yb5NItEnNqy\" accent-color=\"grey\" icon=\"icons:chevron-right\" label=\"Lebih Banyak Lagi\" remote-link-target=\"{}\" remote-link-url=\"https://youtube.com/playlist?list=PLlLe2PpVuiVJ7bdUtQHkXIlMzqxeOtrqd&amp;si=CtIx8yb5NItEnNqy\" edit-mode></simple-cta>\n"
+        },
+        {
+          "id": "item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1",
+          "indent": 0,
+          "location": "pages/item-6fd7adf5-b7b4-4214-8f02-ab835624c9d1/index.html",
+          "slug": "page-dengan-import-md",
+          "order": 2,
+          "parent": null,
+          "title": "Page dengan import MD",
+          "description": "\n",
+          "metadata": {
+            "created": 1722483828,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": false,
+            "hideInMenu": false,
+            "tags": "soal",
+            "locked": false,
+            "readtime": 1,
+            "status": "",
+            "image": "https://images-assets.nasa.gov/image/0102626/0102626~thumb.jpg"
+          },
+          "contents": "\n<p>send Lies asdkljfklsda fdkaljfkldajf kds&#160;send Lies asdkljfklsda fdkaljfkldajf kdssend Lies asdkljfklsda fdkaljfkldajf kdssend Lies asdkljfklsda fdkaljfkldajf kds</p>\n<h2 data-original-level=\"H2\" id=\"header-d0469fe5-9cc6-a22b-d482-a8ef37d1df84\">Contoh</h2>\n<ul><li>send less data, use less battery</li><li>thin offline, low resource, low internet; how do we best serve these communities?</li></ul>\n<self-check accent-color=\"light-blue\" title=\"SHARKS SELF CHECK\" image=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/480px-White_shark.jpg\" alt=\"Great White Shark\" resource=\"#0dbf55d0-0e1d-b9a7-8c05-da310d90e588\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \"><span slot=\"question\">How large can the average great white shark grow to be?</span><span>The Great White shark can grow to be 15 ft to more than 20 ft in length and weigh 2.5 tons or more.</span></self-check>\n<ul><li><a href=\"https://npmjs.com/package/@haxtheweb/multiple-choice\" target=\"_blank\">npm install @haxtheweb/multiple-choice --save</a> (true-false-question is included in this package)</li><li><a href=\"https://github.com/haxtheweb/webcomponents/blob/master/elements/multiple-choice/lib/true-false-question.js\" target=\"_blank\">Source on Github</a></li><li><a href=\"https://codepen.io/btopro/pen/gONwBzo\" target=\"_blank\">Codepen example from CDN</a></li></ul>\n<md-block accent-color=\"grey\" source=\"https://raw.githubusercontent.com/bennypowers/bennypowers.dev/main/posts/lets-build-web-components/part-1-the-standards.md\" data-margin=\"m\"></md-block>\n"
+        },
+        {
+          "id": "item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6",
+          "indent": 0,
+          "location": "pages/item-a0a7f01a-2b12-43e1-bb85-3f7bd8cff8a6/index.html",
+          "slug": "analisis-data",
+          "order": 3,
+          "parent": null,
+          "title": "Analisis Data",
+          "description": "Pada akhir pelajaran, Siswa dapat ...Mendefinisikan data terbuka dan menjelaskan manfaatnya. Mengidentifikasi jenis-jenis data terbuka yang tersedia. Menemukan sumber data terbuka yang terpercaya dan",
+          "metadata": {
+            "created": 1722398223,
+            "updated": 1723015511,
+            "images": {},
+            "videos": {},
+            "published": false,
+            "locked": false,
+            "status": "",
+            "hideInMenu": false,
+            "readtime": 1,
+            "pageType": "module",
+            "icon": "hax:module"
+          },
+          "contents": "\n<learning-component subtitle=\"Unit 1\" type=\"\"><p>Pada akhir pelajaran, Siswa dapat ...</p><p></p><ol><li>Mendefinisikan data terbuka dan menjelaskan manfaatnya. </li><li>Mengidentifikasi jenis-jenis data terbuka yang tersedia. </li><li>Menemukan sumber data terbuka yang terpercaya dan legal. </li><li>Mengimpor data terbuka ke dalam perangkat lunak pengolahan data. </li><li>Membersihkan dan memformat data untuk analisis. </li><li>Melakukan analisis data dasar seperti perhitungan statistik dan visualisasi data.</li></ol><p></p></learning-component>\n"
+        },
+        {
+          "id": "item-6fbeaf95-aca5-490c-b82a-c0155f73535a",
+          "indent": 0,
+          "location": "pages/item-6fbeaf95-aca5-490c-b82a-c0155f73535a/index.html",
+          "slug": "silabus",
+          "order": 0,
+          "parent": null,
+          "title": "Silabus",
+          "description": "Selamat datang, sebuah silabus adalah kontrak antara kita..\nlink Silabus Kurmer (Google Docs)\n\n    I bring you\n      \n    the death\nPada akhir Fase F, peserta didik mampu menerapkan proses berpi",
+          "metadata": {
+            "created": 1721269384,
+            "updated": 1723078020,
+            "images": {},
+            "videos": {},
+            "published": true,
+            "locked": false,
+            "status": "",
+            "files": [
+              {
+                "path": "[object Object]kurmer.jpg",
+                "fullUrl": "//home/idbt2224/git/tikbikinweb/_sites/informatika-xii/files/kurmer.jpg",
+                "url": "files/kurmer.jpg",
+                "type": "image/jpeg",
+                "name": "kurmer.jpg",
+                "size": 14543
+              }
+            ],
+            "hideInMenu": false,
+            "readtime": 1,
+            "image": "https://images-assets.nasa.gov/image/iss007e09229/iss007e09229~thumb.jpg",
+            "pageType": "lesson",
+            "icon": "hax:lesson"
+          },
+          "contents": "\n<p><strong>Selamat datang, sebuah silabus adalah kontrak antara kita..</strong><br></p>\n<p>link Silabus&#160;Kurmer&#160;\n  <simple-cta label=\"Microsoft Word\" link=\"https://docs.google.com/document/d/1-CBvTb0S69vJuCEyMcEwR-CZB1EFE2IM/edit?usp=sharing&amp;ouid=113111580286725726041&amp;rtpof=true&amp;sd=true\" accent-color=\"grey\" icon=\"icons:chevron-right\" remote-link-target=\"{}\" remote-link-url=\"https://docs.google.com/document/d/1-CBvTb0S69vJuCEyMcEwR-CZB1EFE2IM/edit?usp=sharing&amp;ouid=113111580286725726041&amp;rtpof=true&amp;sd=true\"></simple-cta>\n\n\n\n\n\n\n\n</p>\n<p>link Buku Informatika Kurmer&#160;\n  \n\n\n\n\n</p>\n<ebook-button title=\"Access Ebook\" icon=\"icons:book\" link=\"https://drive.google.com/file/d/128NJsjlELshU13HswEfO01b48n2X3AKF/view?usp=drivesdk\"></ebook-button>\n<meme-maker image-url=\"files/kurmer.jpg\" top-text=\"Jangan ragu\" bottom-text=\"Belajar Literasi\" alt=\"Belajar literasi hidup\" data-width=\"50\" data-text-align=\"left\">\n    <div>Jangan ragu</div>\n      <img src=\"files/kurmer.jpg\" alt=\"Belajar literasi hidup\" preload=\"lazy\" aria-describedby=\"\"/>\n    <div>Belajar Literasi</div></meme-maker>\n<p>Pada akhir Fase F, peserta didik mampu menerapkan proses berpikir sistemik, efektif, efisien, dan optimal untuk memodelkan dan mendapatkan berbagai solusi penyelesaian persoalan yang dapat dijalankan oleh mesin secara optimal&#160;menggunakan library atau perangkat yang tersedia; melakukan penyempurnaan program komputer; memahami pengolahan data lanjut; dan menerapkan verifikasi beragam informasi secara lateral; serta menerapkan prinsip keamanan digital tingkat lanjut.</p>\n<multiple-choice question=\"Apakah saya harus menjadi seorang siswa kelas 12 untuk mengikuti kursus ini?\" single-option randomize max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#ae665216-21a2-332b-f87a-00fc2f5bccd4\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org \" quiz-name=\"default\" data-accent=\"0\" data-primary=\"1\">\n<input type=\"checkbox\" value=\"Benar\" correct=\"correct\"><input type=\"checkbox\" value=\"Salah\"></multiple-choice>\n"
+        }
+      ]
     }
   },
   "items": [
